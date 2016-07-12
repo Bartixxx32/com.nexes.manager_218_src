@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\audio_layout.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\audio_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\tablerow.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\tablerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\manage_layout.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\manage_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\backup_layout.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\backup_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\edit_layout.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\edit_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\input_layout.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\input_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\help_layout.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\help_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\build\\intermediates\\res\\merged\\debug\\layout\\info_layout.xml",
+        "source": "C:\\Users\\Bartixxx\\Desktop\\S15BasicLauncher\\com.nexes.manager_218_src1\\BARTIXXX FM\\src\\main\\res\\layout\\info_layout.xml"
+    }
+]
